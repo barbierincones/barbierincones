@@ -1,6 +1,16 @@
 # print('Hello World!') 👋
 
-You can follow me in the next sites/platforms where I constantly publish new content:
+```py
+barbie = {
+    "Code": ["Javascript", "HTML", "CSS", "Python"],
+    "Tools": ["React", "Redux", "Node", "Flask"],
+}
+
+for items in barbie:
+    print(f'''{items}: {barbie[items]}''')
+```
+
+You can follow me in the next sites/platforms:
 - IG
 - TWT
 - LKDN
