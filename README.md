@@ -1,9 +1,12 @@
 # print('Hello World!') 👋
 
 ```py
+# A little bit about me...
+
 barbie = {
-    "Code": ["Javascript", "HTML", "CSS", "Python"],
+    "Code": ["Javascript", "HTML", "CSS", "KivyMD", "Python"],
     "Tools": ["React", "Redux", "Node", "Flask"],
+    "Kill-time": ["Books", "Captus", "Music", "Series"], 
 }
 
 for items in barbie:
@@ -11,6 +14,5 @@ for items in barbie:
 ```
 
 You can follow me in the next sites/platforms:
-- IG
-- TWT
-- LKDN
+- 📸 Instagram: @barbierincones
+- ⚙️ LinkedIn: /barbierincones
