@@ -6,7 +6,7 @@
 barbie = {
     "Code": ["Javascript", "HTML", "CSS", "KivyMD", "Python"],
     "Tools": ["React", "Redux", "Node", "Flask"],
-    "Kill-time": ["Books", "Captus", "Music", "Series"], 
+    "Kill-time": ["Books", "Cactus", "Music", "Series"], 
 }
 
 for items in barbie:
